@@ -11,6 +11,19 @@ Here are some ideas to get you started:
 - 😋 Always for delicious food~
 - ⚡ Fun fact: Never stop thinking
 
+<details>
+ <summary> My top languages</summary>
+ 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| Python              |
+|     2| Tableau              |
+|     3| SQL              |
+
+</details>
+
+
+
 `Hello World!`
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://today-obs.line-scdn.net/0hYoD39u2uBkB5ShPZUSR5F0EcCjFKLBxJW3tOIFRIUXRVZkUfTCxVI18ZXmxdfUVEWStKLwtMC3BRfkNBQw/w644">
@@ -18,4 +31,8 @@ Here are some ideas to get you started:
  <img alt="Reopen" src="https://today-obs.line-scdn.net/0hYoD39u2uBkB5ShPZUSR5F0EcCjFKLBxJW3tOIFRIUXRVZkUfTCxVI18ZXmxdfUVEWStKLwtMC3BRfkNBQw/w644">
 </picture>
 
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
 
