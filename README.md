@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Never stop thinking
 
 `Hello World!`
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://today-obs.line-scdn.net/0hYoD39u2uBkB5ShPZUSR5F0EcCjFKLBxJW3tOIFRIUXRVZkUfTCxVI18ZXmxdfUVEWStKLwtMC3BRfkNBQw/w644">
+ <source media="(prefers-color-scheme: light)" srcset="https://today-obs.line-scdn.net/0hYoD39u2uBkB5ShPZUSR5F0EcCjFKLBxJW3tOIFRIUXRVZkUfTCxVI18ZXmxdfUVEWStKLwtMC3BRfkNBQw/w644">
+ <img alt="Reopen" src="https://today-obs.line-scdn.net/0hYoD39u2uBkB5ShPZUSR5F0EcCjFKLBxJW3tOIFRIUXRVZkUfTCxVI18ZXmxdfUVEWStKLwtMC3BRfkNBQw/w644">
+</picture>
+
 
